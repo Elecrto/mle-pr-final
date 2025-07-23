@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+data/
+assets/
+catboost_info/
+env/
+last_env/
+models/
+.env
 # Distribution / packaging
 .Python
 build/
